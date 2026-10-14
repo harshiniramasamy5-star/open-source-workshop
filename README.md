@@ -10,18 +10,18 @@ Find one typo, fix it, and send a pull request.
 
 Open source code is avialable for anyone to see and use.
 
-Anyone can modify it and share it with evry person in the world.
+Anyone can modify it and share it with every person in the world.
 
 Linux, VS Code and Python are all open source projects.
 
 They are maintained by thousands of people.
 
-These people are called contributers.
+These people are called contributors.
 
 ## Why Contribute?
 
 - You learn how real projects are built
-- Recruiters can actualy see your work
+- Recruiters can actually see your work
 - You meet devlopers from all over the world
 - It feels grate when your first PR gets merged
 
