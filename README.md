@@ -1,6 +1,6 @@
 # Welcome to the NITW Open Source Workshop 🚀
 
-Thsi repository is a playground for your first open source contribution.
+This repository is a playground for your first open source contribution.
 
 There is no code here, just this README full of typos.
 
@@ -27,9 +27,9 @@ These people are called contributers.
 
 ## How to Contribute
 
-1. Fork this repositery
+1. Fork this repository
 2. Clone your fork to your laptop
-3. Create a new brnach called `fix-bug`
+3. Create a new branch called `fix-bug`
 4. Fix one typo in this file
 5. Commit your change with a clear mesage
 6. Push the branch to your fork
