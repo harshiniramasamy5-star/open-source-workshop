@@ -1,6 +1,6 @@
 # Welcome to the NITW Open Source Workshop 🚀
 
-Thsi repository is a playground for your first open source contribution.
+This repositery is a playground for your first open source contribution.
 
 There is no code here, just this README full of typos.
 
@@ -10,7 +10,7 @@ Find one typo, fix it, and send a pull request.
 
 Open source code is avialable for anyone to see and use.
 
-Anyone can modify it and share it with evry person in the world.
+Anyone can modify it and share it with every person in the world.
 
 Linux, VS Code and Python are all open source projects.
 
