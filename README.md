@@ -8,7 +8,7 @@ Find one typo, fix it, and send a pull request.
 
 ## What is Open Source?
 
-Open source code is avialable for anyone to see and use.
+Open source code is available for anyone to see and use.
 
 Anyone can modify it and share it with every person in the world.
 
