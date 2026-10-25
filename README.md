@@ -14,7 +14,7 @@ Anyone can modify it and share it with every person in the world.
 
 Linux, VS Code and Python are all open source projects.
 
-They are maintaned by thousands of people.
+They are maintained by thousands of people.
 
 These people are called contributors.
 
