@@ -22,7 +22,7 @@ These people are called contributors.
 
 - You learn how real projects are built
 - Recruiters can actually see your work
-- You meet devlopers from all over the world
+- You meet developers from all over the world
 - It feels grate when your first PR gets merged
 
 ## How to Contribute
