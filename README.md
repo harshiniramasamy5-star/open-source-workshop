@@ -40,7 +40,7 @@ These people are called contributors.
 - Pick an issue from the Issues tab and comment to claim it
 - Fix only one typo per pull request
 - Do not rewrite whole sentances
-- Be respecful in comments and reviews
+- Be respectful in comments and reviews
 
 ## What Happens Next?
 
