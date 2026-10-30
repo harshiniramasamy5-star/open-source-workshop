@@ -50,6 +50,6 @@ Not every PR gets merged today, and thats normal.
 
 ## Thank You
 
-We hope this is the begining of something great.
+We hope this is the beginning of something great.
 
 Enjoy your open source jouney. 🎉
